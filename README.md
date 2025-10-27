@@ -1,6 +1,6 @@
-## Olá, como vai?
+## How you doing?
 
-- ⚛️ Faço Física!
+- ⚛️ Into science
 - 👨‍💻 Python | Data-Analysis
 
 <div align="center">
