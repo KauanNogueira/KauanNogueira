@@ -1,7 +1,6 @@
 # Hi fellow scientist!
 
 ## About Me
-- 🔭 Currently into *Data-Science* and *ML*. Also developing more Math skills.
-- 🌱 Learning the same topics I'm in!
-- 💬 Plan to develop usefull projects in this area, mainly ***AI Vision***
-
+- 🔭 Focused on *Machine Learning & Data Analysis*.
+- 🌱 Currently learning: Computer Vision (ResNet, Object Detection).
+- 💬 Open to discussing *ML approaches* and *physics-based simulations*
