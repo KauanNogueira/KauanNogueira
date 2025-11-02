@@ -1,9 +1,7 @@
-## How you doing?
+# Hi fellow scientist!
 
-- ⚛️ Into science
-- 👨‍💻 Python | Data-Analysis
+## About Me
+- 🔭 Currently into *Data-Science* and *ML*. Also developing more Math skills.
+- 🌱 Learning the same topics I'm in!
+- 💬 Plan to develop usefull projects in this area, mainly ***AI Vision***
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KauanNogueira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanNogueira&layout=compact&langs_count=7&theme=dracula"/>
-</div>
